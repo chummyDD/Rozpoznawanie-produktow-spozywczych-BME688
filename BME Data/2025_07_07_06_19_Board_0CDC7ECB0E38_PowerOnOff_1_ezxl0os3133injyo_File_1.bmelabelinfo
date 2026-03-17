@@ -1,0 +1,42 @@
+{
+  "labelInfoHeader": {
+    "counterPowerOnOff": 1,
+    "seedPowerOnOff": "ezxl0os3133injyo",
+    "dateCreated": "1751869152",
+    "dateCreated_ISO": "2025-07-07T06:19:12+00:00",
+    "firmwareVersion": "2.1.5",
+    "boardId": "0CDC7ECB0E38"
+  },
+  "labelInformation": [
+    {
+      "labelTag": 0,
+      "labelName": "Initial",
+      "labelDescription": "Standard label for no label has been set"
+    },
+    {
+      "labelTag": 1,
+      "labelName": "Button 1",
+      "labelDescription": "Standard label for hardware button 1 pressed"
+    },
+    {
+      "labelTag": 2,
+      "labelName": "Button 2",
+      "labelDescription": "Standard label for hardware button 2 pressed"
+    },
+    {
+      "labelTag": 3,
+      "labelName": "Button 1+2",
+      "labelDescription": "Standard label for hardware button 1 and button 2 pressed"
+    },
+    {
+      "labelTag": 1001,
+      "labelName": "Specimen 1001",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1001,
+      "labelName": "0707 4 profile ",
+      "labelDescription": " "
+    }
+  ]
+}

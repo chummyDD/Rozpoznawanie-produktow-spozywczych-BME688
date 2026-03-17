@@ -1,0 +1,42 @@
+{
+  "labelInfoHeader": {
+    "counterPowerOnOff": 1,
+    "seedPowerOnOff": "omcx5hl2ujas4yav",
+    "dateCreated": "1752820526",
+    "dateCreated_ISO": "2025-07-18T06:35:26+00:00",
+    "firmwareVersion": "2.1.5",
+    "boardId": "0CDC7ECB0E38"
+  },
+  "labelInformation": [
+    {
+      "labelTag": 0,
+      "labelName": "Initial",
+      "labelDescription": "Standard label for no label has been set"
+    },
+    {
+      "labelTag": 1,
+      "labelName": "Button 1",
+      "labelDescription": "Standard label for hardware button 1 pressed"
+    },
+    {
+      "labelTag": 2,
+      "labelName": "Button 2",
+      "labelDescription": "Standard label for hardware button 2 pressed"
+    },
+    {
+      "labelTag": 3,
+      "labelName": "Button 1+2",
+      "labelDescription": "Standard label for hardware button 1 and button 2 pressed"
+    },
+    {
+      "labelTag": 1001,
+      "labelName": "Specimen 1001",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1001,
+      "labelName": "alkohol piątek ",
+      "labelDescription": " "
+    }
+  ]
+}
