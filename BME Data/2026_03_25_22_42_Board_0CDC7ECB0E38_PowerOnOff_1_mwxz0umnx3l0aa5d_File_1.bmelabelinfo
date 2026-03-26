@@ -1,0 +1,42 @@
+{
+  "labelInfoHeader": {
+    "counterPowerOnOff": 1,
+    "seedPowerOnOff": "mwxz0umnx3l0aa5d",
+    "dateCreated": "1774478561",
+    "dateCreated_ISO": "2026-03-25T22:42:41+00:00",
+    "firmwareVersion": "2.1.5",
+    "boardId": "0CDC7ECB0E38"
+  },
+  "labelInformation": [
+    {
+      "labelTag": 0,
+      "labelName": "Initial",
+      "labelDescription": "Standard label for no label has been set"
+    },
+    {
+      "labelTag": 1,
+      "labelName": "Button 1",
+      "labelDescription": "Standard label for hardware button 1 pressed"
+    },
+    {
+      "labelTag": 2,
+      "labelName": "Button 2",
+      "labelDescription": "Standard label for hardware button 2 pressed"
+    },
+    {
+      "labelTag": 3,
+      "labelName": "Button 1+2",
+      "labelDescription": "Standard label for hardware button 1 and button 2 pressed"
+    },
+    {
+      "labelTag": 1001,
+      "labelName": "Specimen 1001",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1001,
+      "labelName": "Kawa Rozpuszczalna Jacobs",
+      "labelDescription": " "
+    }
+  ]
+}
