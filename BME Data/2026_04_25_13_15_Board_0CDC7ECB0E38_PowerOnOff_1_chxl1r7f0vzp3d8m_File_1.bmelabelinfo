@@ -1,0 +1,77 @@
+{
+  "labelInfoHeader": {
+    "counterPowerOnOff": 1,
+    "seedPowerOnOff": "chxl1r7f0vzp3d8m",
+    "dateCreated": "1777122929",
+    "dateCreated_ISO": "2026-04-25T13:15:29+00:00",
+    "firmwareVersion": "2.1.5",
+    "boardId": "0CDC7ECB0E38"
+  },
+  "labelInformation": [
+    {
+      "labelTag": 0,
+      "labelName": "Initial",
+      "labelDescription": "Standard label for no label has been set"
+    },
+    {
+      "labelTag": 1,
+      "labelName": "Button 1",
+      "labelDescription": "Standard label for hardware button 1 pressed"
+    },
+    {
+      "labelTag": 2,
+      "labelName": "Button 2",
+      "labelDescription": "Standard label for hardware button 2 pressed"
+    },
+    {
+      "labelTag": 3,
+      "labelName": "Button 1+2",
+      "labelDescription": "Standard label for hardware button 1 and button 2 pressed"
+    },
+    {
+      "labelTag": 1003,
+      "labelName": "Specimen 1003",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1003,
+      "labelName": "Powietrze",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1004,
+      "labelName": "Specimen 1004",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1004,
+      "labelName": "pomidor",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1005,
+      "labelName": "Specimen 1005",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1005,
+      "labelName": "powietrze2",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1006,
+      "labelName": "Specimen 1006",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1006,
+      "labelName": "pomidor2",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1007,
+      "labelName": "Specimen 1007",
+      "labelDescription": " "
+    }
+  ]
+}

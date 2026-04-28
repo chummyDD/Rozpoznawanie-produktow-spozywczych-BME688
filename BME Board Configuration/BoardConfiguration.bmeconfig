@@ -1,0 +1,246 @@
+{
+  "configHeader": {
+    "dateCreated_ISO": "2026-04-26T14:32:03.416Z",
+    "appVersion": "3.1.0",
+    "boardType": "board_8",
+    "boardMode": "heater_profile_exploration",
+    "boardLayout": "grouped"
+  },
+  "configBody": {
+    "heaterProfiles": [
+      {
+        "id": "heater_323",
+        "timeBase": 140,
+        "temperatureTimeVectors": [
+          [
+            70,
+            43
+          ],
+          [
+            350,
+            2
+          ],
+          [
+            350,
+            2
+          ],
+          [
+            210,
+            2
+          ],
+          [
+            210,
+            21
+          ],
+          [
+            210,
+            21
+          ],
+          [
+            350,
+            2
+          ],
+          [
+            350,
+            14
+          ],
+          [
+            350,
+            14
+          ],
+          [
+            350,
+            14
+          ]
+        ]
+      },
+      {
+        "id": "heater_354",
+        "timeBase": 140,
+        "temperatureTimeVectors": [
+          [
+            320,
+            5
+          ],
+          [
+            100,
+            2
+          ],
+          [
+            100,
+            10
+          ],
+          [
+            100,
+            30
+          ],
+          [
+            200,
+            5
+          ],
+          [
+            200,
+            5
+          ],
+          [
+            200,
+            5
+          ],
+          [
+            320,
+            5
+          ],
+          [
+            320,
+            5
+          ],
+          [
+            320,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "heater_503",
+        "timeBase": 140,
+        "temperatureTimeVectors": [
+          [
+            210,
+            24
+          ],
+          [
+            280,
+            2
+          ],
+          [
+            280,
+            22
+          ],
+          [
+            350,
+            2
+          ],
+          [
+            350,
+            22
+          ],
+          [
+            280,
+            24
+          ],
+          [
+            210,
+            24
+          ],
+          [
+            140,
+            24
+          ],
+          [
+            70,
+            24
+          ],
+          [
+            140,
+            24
+          ]
+        ]
+      },
+      {
+        "id": "heater_413",
+        "timeBase": 140,
+        "temperatureTimeVectors": [
+          [
+            70,
+            43
+          ],
+          [
+            350,
+            2
+          ],
+          [
+            163,
+            43
+          ],
+          [
+            350,
+            2
+          ],
+          [
+            256,
+            2
+          ],
+          [
+            256,
+            20
+          ],
+          [
+            256,
+            21
+          ],
+          [
+            350,
+            2
+          ],
+          [
+            350,
+            20
+          ],
+          [
+            350,
+            21
+          ]
+        ]
+      }
+    ],
+    "dutyCycleProfiles": [
+      {
+        "id": "duty_2_4",
+        "numberScanningCycles": 2,
+        "numberSleepingCycles": 4
+      }
+    ],
+    "sensorConfigurations": [
+      {
+        "sensorIndex": 0,
+        "heaterProfile": "heater_323",
+        "dutyCycleProfile": "duty_2_4"
+      },
+      {
+        "sensorIndex": 1,
+        "heaterProfile": "heater_323",
+        "dutyCycleProfile": "duty_2_4"
+      },
+      {
+        "sensorIndex": 2,
+        "heaterProfile": "heater_354",
+        "dutyCycleProfile": "duty_2_4"
+      },
+      {
+        "sensorIndex": 3,
+        "heaterProfile": "heater_354",
+        "dutyCycleProfile": "duty_2_4"
+      },
+      {
+        "sensorIndex": 4,
+        "heaterProfile": "heater_503",
+        "dutyCycleProfile": "duty_2_4"
+      },
+      {
+        "sensorIndex": 5,
+        "heaterProfile": "heater_503",
+        "dutyCycleProfile": "duty_2_4"
+      },
+      {
+        "sensorIndex": 6,
+        "heaterProfile": "heater_413",
+        "dutyCycleProfile": "duty_2_4"
+      },
+      {
+        "sensorIndex": 7,
+        "heaterProfile": "heater_413",
+        "dutyCycleProfile": "duty_2_4"
+      }
+    ]
+  }
+}
