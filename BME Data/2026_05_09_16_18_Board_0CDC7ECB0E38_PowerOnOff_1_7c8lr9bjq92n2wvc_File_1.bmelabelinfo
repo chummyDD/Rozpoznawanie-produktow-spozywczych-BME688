@@ -1,0 +1,92 @@
+{
+  "labelInfoHeader": {
+    "counterPowerOnOff": 1,
+    "seedPowerOnOff": "7c8lr9bjq92n2wvc",
+    "dateCreated": "1778343510",
+    "dateCreated_ISO": "2026-05-09T16:18:30+00:00",
+    "firmwareVersion": "2.1.5",
+    "boardId": "0CDC7ECB0E38"
+  },
+  "labelInformation": [
+    {
+      "labelTag": 0,
+      "labelName": "Initial",
+      "labelDescription": "Standard label for no label has been set"
+    },
+    {
+      "labelTag": 1,
+      "labelName": "Button 1",
+      "labelDescription": "Standard label for hardware button 1 pressed"
+    },
+    {
+      "labelTag": 2,
+      "labelName": "Button 2",
+      "labelDescription": "Standard label for hardware button 2 pressed"
+    },
+    {
+      "labelTag": 3,
+      "labelName": "Button 1+2",
+      "labelDescription": "Standard label for hardware button 1 and button 2 pressed"
+    },
+    {
+      "labelTag": 1001,
+      "labelName": "Specimen 1001",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1001,
+      "labelName": "Powietrze_1",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1002,
+      "labelName": "Specimen 1002",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1002,
+      "labelName": "Anyż",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1002,
+      "labelName": "Anyż_1",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1003,
+      "labelName": "Specimen 1003",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1003,
+      "labelName": "Powietrze_2",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1004,
+      "labelName": "Specimen 1004",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1005,
+      "labelName": "Specimen 1005",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1004,
+      "labelName": "anyż",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1005,
+      "labelName": "anyż3",
+      "labelDescription": " "
+    },
+    {
+      "labelTag": 1006,
+      "labelName": "Specimen 1006",
+      "labelDescription": " "
+    }
+  ]
+}
